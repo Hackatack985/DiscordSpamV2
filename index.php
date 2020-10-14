@@ -18,11 +18,11 @@ type_text()" ; bgColor=Black text=#00FFFF>
 <p id="sending">Loading Stats...</p>
 <button class="button" onclick="load()">Load Tokens</button>
 <br>
-    <label for="invite"></label><input type="message1" id="invite" placeholder="Discord Invite Code"><br>
+    <label for="invite"></label><input type="message1" id="invite" placeholder="4hFx9XU"><br>
 <button class="button" onclick="join();">Join Server</button>
 <br>
-    <label for="id"></label><input type="message" id="id" placeholder="Channel ID*">
-    <label for="message"></label><input type="message" id="message" placeholder="Message*"><br>
+    <label for="id"></label><input type="message" id="id" placeholder="724386765091373096*">
+    <label for="message"></label><input type="message" id="message" placeholder="RIP*"><br>
 <button class="button" onclick="spam();">Send Message</button>
     <h6 class="made">Made by <a href="https://github.com/TimsLab">TimsLab</a></h6>
 <script type="application/javascript">
